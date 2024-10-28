@@ -1,0 +1,12 @@
+/* variables de colores para blog o paginas web, estare actualizando este repositorio algunas veces */
+/* css */ 
+:root{
+    --beige : #f5f5dc;
+    --bisque : #ffe4c4;
+    --cornsilk : #fff8dc;
+    --Durazno-suave : rgb(216, 182, 138);
+    --negro : rgb(0,0,0);
+    --negro-claro : #1e1e1ed2;
+    --blanco : #fff;
+    --morado : #dd1bb3;
+}
