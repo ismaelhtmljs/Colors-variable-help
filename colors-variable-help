@@ -9,9 +9,17 @@
     --negro-claro : #1e1e1ed2;
     --blanco : #fff;
     --morado : #dd1bb3;
+    --morado-oscuro : #8b0f70a9;
     --khaki : #f0e68c;
     --tan : #d2b48c;
     --blanco-oscuro : #494848e1;
+    --blanco-detallable : #f4f4f4;
     --cyan : #00ffff;
-    --rojo : #ff0000; 
+    --cyan-oscuro : #02b4b4;
+    --rojo : #ff0000;
+    --rojo-oscuro : #aa0000;
+    --amarillo : #FFD700;
+    --amarillo-oscuro : #daba07;
+    --amarillo-mas-oscuro : #aa9101;
+    --azul : #4352dd;
 }
