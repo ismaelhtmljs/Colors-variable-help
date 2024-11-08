@@ -22,4 +22,6 @@
     --amarillo-oscuro : #daba07;
     --amarillo-mas-oscuro : #aa9101;
     --azul : #4352dd;
+    /* para fondos oscuros o "Theme darks" */
+    --gris-azulado-oscuro
 }
